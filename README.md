@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently Stydying Robotics and MEchatronics with Computer <br><br>🌱 I’m currently learning About machine learning applications, utilisation in web applications, while strenghtening my deveopment skills
+🔭 I’m currently Stydying Robotics and Mechatronics with Computer <br><br>🌱 I’m currently learning About machine learning applications, utilisation in web applications, while strenghtening my deveopment skills
 
 
 # 💻 Tech Stack:
